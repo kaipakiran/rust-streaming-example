@@ -1,0 +1,19 @@
+# update this file for rust gitignore
+
+# Cargo
+target/
+
+# Rust
+
+
+# Cargo
+Cargo.lock
+
+# Cargo
+
+# env
+.env
+
+# env
+.env.local
+
